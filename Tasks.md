@@ -1,0 +1,1 @@
+There are my list of some interesting codewars tasks of 8th level
