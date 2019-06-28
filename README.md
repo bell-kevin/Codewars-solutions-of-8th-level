@@ -1,4 +1,4 @@
-In this repository I collect interesting tasks of 8th level from Codewars.com
+*In this repository I collect interesting tasks of 8th level from Codewars.com
 
 Tasks List
 *[x] Remove dublicates from list
