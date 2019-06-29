@@ -5,3 +5,5 @@ Tasks List
 *[x] Remove dublicates from list
 *[x] Reversed Strings
 *[x] Surface Area and Volume of a Box
+
+new solution
