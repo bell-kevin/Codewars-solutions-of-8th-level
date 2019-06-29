@@ -10,6 +10,6 @@ new solution
 
 ```javascript
 functions sum (a,b){
-rerurn a+b
+return a+b
 }
 ```
