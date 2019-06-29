@@ -6,7 +6,7 @@ Tasks List
 *[x] Reversed Strings
 *[x] Surface Area and Volume of a Box
 
-new solution
+new solution for practice
 
 ```javascript
 functions sum (a,b){
