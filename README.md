@@ -5,11 +5,5 @@ Tasks List
 *[x] Remove dublicates from list
 *[x] Reversed Strings
 *[x] Surface Area and Volume of a Box
+*[x] Even or Odd
 
-new solution for practice
-
-```javascript
-functions sum (a,b){
-return a+b
-}
-```
