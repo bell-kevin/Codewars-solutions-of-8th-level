@@ -6,4 +6,5 @@ Tasks List
 *[x] Reversed Strings
 *[x] Surface Area and Volume of a Box
 *[x] Even or Odd
+*[x] Century From Year
 
