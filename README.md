@@ -7,6 +7,6 @@ Tasks List
 *[x] Surface Area and Volume of a Box
 *[x] Even or Odd
 *[x] Century From Year
-*[] Some unsolved task
+*[x] No Loops 2 - You only need one
 *[] Some unsolved task
 
