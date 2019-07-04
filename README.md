@@ -9,5 +9,6 @@ Tasks List
 *[x] Century From Year
 *[x] No Loops 2 - You only need one
 *[x] Get ascii value of character
+*[x] No zeros for heroes
 *[] Some unsolved task
 
