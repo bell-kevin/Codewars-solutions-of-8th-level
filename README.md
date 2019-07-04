@@ -8,5 +8,6 @@ Tasks List
 *[x] Even or Odd
 *[x] Century From Year
 *[x] No Loops 2 - You only need one
+*[x] Get ascii value of character
 *[] Some unsolved task
 
