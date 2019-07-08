@@ -11,4 +11,4 @@ Tasks List
 *[x] Get ascii value of character
 *[x] No zeros for heroes
 *[x] Hello, Name or World!
-
+*[x] Sort and Star
