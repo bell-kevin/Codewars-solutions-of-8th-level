@@ -10,3 +10,4 @@
 * [x] No zeros for heroes
 * [x] Hello, Name or World!
 * [x] Sort and Star
+* [x] Transportation on vacation
