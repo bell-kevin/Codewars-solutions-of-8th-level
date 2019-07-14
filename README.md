@@ -14,5 +14,7 @@
 * [x] Can we divide it?
 * [x] Heads and Legs
 * [x] Is it even?
+* [x] *!a == a ?!
+* [x] String cleaning
 
 
