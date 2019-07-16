@@ -16,5 +16,6 @@
 * [x] Is it even?
 * [x] *!a == a ?!
 * [x] String cleaning
+* [x] What's the real floor?
 
 
