@@ -1,3 +1,6 @@
+/* Welcome!
+https://www.codewars.com/kata/welcome/train/javascript
+*/
 function greet(language) {
 let ob = {
   english: 'Welcome',
