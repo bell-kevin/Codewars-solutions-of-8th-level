@@ -21,4 +21,7 @@
 * [x] Welcome! (work with object)
 * [x] Expressions Matter
 * [x] For Twins: 1. Types
+* [x] Training JS #7: if..else and ternary operator
+
+
 
