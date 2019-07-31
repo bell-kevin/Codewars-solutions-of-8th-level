@@ -24,6 +24,7 @@
 * [x] Training JS #7: if..else and ternary operator
 * [x] Grasshopper - Terminal game move function
 * [x] Beginner Series #2 Clock
+* [x] Calculate BMI
 
 
 
