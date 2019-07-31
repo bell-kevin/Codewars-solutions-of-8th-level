@@ -25,6 +25,7 @@
 * [x] Grasshopper - Terminal game move function
 * [x] Beginner Series #2 Clock
 * [x] Calculate BMI
+* [x] Beginner Series #1 School Paperwork
 
 
 
