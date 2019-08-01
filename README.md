@@ -26,6 +26,7 @@
 * [x] Beginner Series #2 Clock
 * [x] Calculate BMI
 * [x] Beginner Series #1 School Paperwork
+* [x] Area of a Square
 
 
 
