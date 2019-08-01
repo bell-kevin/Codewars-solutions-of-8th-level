@@ -27,6 +27,7 @@
 * [x] Calculate BMI
 * [x] Beginner Series #1 School Paperwork
 * [x] Area of a Square
+* [x] Find the Remainder
 
 
 
