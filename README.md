@@ -29,6 +29,7 @@
 * [x] Area of a Square
 * [x] Find the Remainder
 * [x] Simple calculator
+* [x] Pirates!! Are the Cannons ready!??
 
 
 
