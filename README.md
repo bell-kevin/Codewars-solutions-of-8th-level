@@ -30,6 +30,6 @@
 * [x] Find the Remainder
 * [x] Simple calculator
 * [x] Pirates!! Are the Cannons ready!??
-
+* [x]  Remove a exclamation mark from the end of string
 
 
