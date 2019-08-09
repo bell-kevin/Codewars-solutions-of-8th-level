@@ -32,5 +32,6 @@
 * [x] Pirates!! Are the Cannons ready!??
 * [x]  Remove a exclamation mark from the end of string
 * [x] Reversed Words
+* [x] Points of Reflection
 
 
