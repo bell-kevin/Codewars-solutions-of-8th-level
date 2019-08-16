@@ -37,5 +37,6 @@
 * [x] Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string
 * [x] SpeedCode #2 - Array Madness
 * [x] Geometry Basics: Circle Circumference in 2D
+* [x] BASIC: Making Six Toast
 
 
