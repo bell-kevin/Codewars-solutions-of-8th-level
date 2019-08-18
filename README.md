@@ -38,5 +38,6 @@
 * [x] SpeedCode #2 - Array Madness
 * [x] Geometry Basics: Circle Circumference in 2D
 * [x] BASIC: Making Six Toast
+* [x] Is it a palindrome?
 
 
