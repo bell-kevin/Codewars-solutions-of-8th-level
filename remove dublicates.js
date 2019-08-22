@@ -13,3 +13,14 @@ for (let i = 0; i < arr.length; i++){
   if (!arr2.includes(arr[i])) arr2.push(arr[i]);
 }
 console.log(arr2);
+
+//3
+let a ={};
+let arr3 =[];
+for (let i = 0; i < arr.length; i++){
+  if (!a[arr[i]]) {
+    a[arr[i]] = true;
+    arr3.push(arr[i]);}
+}
+
+console.log(arr3);
