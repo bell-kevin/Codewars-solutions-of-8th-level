@@ -44,6 +44,8 @@
 * [x] Simple Fun #176: Reverse Letter
 * [x] Remove dublicates from array
 * [x] NBA full 48 minutes average
+* [x] Grader
+
 
 
 
