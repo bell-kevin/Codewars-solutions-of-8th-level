@@ -45,6 +45,7 @@
 * [x] Remove dublicates from array
 * [x] NBA full 48 minutes average
 * [x] Grader
+* [x] Name Shuffler
 
 
 
