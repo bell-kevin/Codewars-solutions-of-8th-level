@@ -47,6 +47,7 @@
 * [x] Grader
 * [x] Name Shuffler
 * [x] Logical calculator
+* [x] Lario and Muigi Pipe Problem
 
 
 
