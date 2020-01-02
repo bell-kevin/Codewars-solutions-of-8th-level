@@ -52,6 +52,7 @@
 * [x] The Wide-Mouthed frog!
 * [x] Enumerable Magic #25 - Take the First N Elements
 * [x] Find the Slope
+* [x] Miles per gallon to kilometers per liter
 
 
 
