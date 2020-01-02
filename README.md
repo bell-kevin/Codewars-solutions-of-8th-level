@@ -51,6 +51,7 @@
 * [x] Sum without highest and lowest number
 * [x] The Wide-Mouthed frog!
 * [x] Enumerable Magic #25 - Take the First N Elements
+* [x] Find the Slope
 
 
 
