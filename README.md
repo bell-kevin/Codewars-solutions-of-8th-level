@@ -54,6 +54,7 @@
 * [x] Find the Slope
 * [x] Miles per gallon to kilometers per liter
 * [x] Grasshopper - Array Mean
+* [x] Template Strings
 
 
 
