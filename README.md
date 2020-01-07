@@ -57,6 +57,7 @@
 * [x] Template Strings
 * [x] My head is at the wrong end!
 * [x] Word Count
+* [x] Leonardo Dicaprio and Oscars
 
 
 
