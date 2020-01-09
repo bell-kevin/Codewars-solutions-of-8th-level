@@ -59,6 +59,7 @@
 * [x] Word Count
 * [x] Leonardo Dicaprio and Oscars
 * [x] London CityHacker
+* [x] Training JS #12: loop statement --for..in and for..of
 
 
 
