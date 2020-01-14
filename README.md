@@ -61,6 +61,7 @@
 * [x] London CityHacker
 * [x] Training JS #12: loop statement --for..in and for..of
 * [x] Training JS #11: loop statement --break,continue
+* [x] Smallest unused ID
 
 
 
