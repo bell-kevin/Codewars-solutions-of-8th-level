@@ -63,6 +63,7 @@
 * [x] Training JS #11: loop statement --break,continue
 * [x] Smallest unused ID
 * [x] Polish alphabet
+* [x] Simple Fun #261: Whose Move 
 
 
 
