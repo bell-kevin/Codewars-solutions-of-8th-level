@@ -64,6 +64,7 @@
 * [x] Smallest unused ID
 * [x] Polish alphabet
 * [x] Simple Fun #261: Whose Move 
+* [x] Is the string uppercase?
 
 
 
