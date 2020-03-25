@@ -65,6 +65,8 @@
 * [x] Polish alphabet
 * [x] Simple Fun #261: Whose Move 
 * [x] Is the string uppercase?
+* [x] L1: Bartender, drinks!
+
 
 
 
