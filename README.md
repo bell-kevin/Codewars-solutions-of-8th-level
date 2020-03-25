@@ -67,6 +67,8 @@
 * [x] Is the string uppercase?
 * [x] L1: Bartender, drinks!
 * [x] Localize The Barycenter of a Triangle
+* [x] ES6 string addition
+
 
 
 
