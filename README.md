@@ -68,7 +68,7 @@
 * [x] L1: Bartender, drinks!
 * [x] Localize The Barycenter of a Triangle
 * [x] ES6 string addition
-
+* [x] Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()
 
 
 
