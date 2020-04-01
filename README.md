@@ -69,6 +69,8 @@
 * [x] Localize The Barycenter of a Triangle
 * [x] ES6 string addition
 * [x] Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()
+* [x] Training JS #6: Basic data types--Boolean and conditional statements if..else
+
 
 
 
