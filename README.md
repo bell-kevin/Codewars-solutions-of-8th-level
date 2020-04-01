@@ -70,7 +70,7 @@
 * [x] ES6 string addition
 * [x] Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()
 * [x] Training JS #6: Basic data types--Boolean and conditional statements if..else
-
+* [x] UEFA EURO 2016
 
 
 
