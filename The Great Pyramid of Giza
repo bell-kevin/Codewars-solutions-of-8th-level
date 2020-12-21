@@ -1,0 +1,6 @@
+//https://www.codewars.com/kata/58da3ef3ac2033ef630000ca
+function buildPyramidTime(strength, skill) {
+  // Only change code below this line
+  return strength + skill > 15? "receive 3000 gold coins" : strength + skill >= 10? "receive 5000 gold coins" : "receive 10000 gold coins"
+  // Only change code above this line
+}
